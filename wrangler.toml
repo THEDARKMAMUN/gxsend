@@ -1,4 +1,4 @@
 name = "my-python-api"
-main = "src/entry.py"
+main = "SRC/entry.py"
 compatibility_date = "2024-04-03"
 compatibility_flags = ["python_workers"]
